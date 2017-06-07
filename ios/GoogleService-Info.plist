@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>616257045931-63u7ipggq39ccch1eq5qgtn0lfsievaa.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.616257045931-63u7ipggq39ccch1eq5qgtn0lfsievaa</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBX0J54juGjSBP3Kjzb0aQwUkesgOV3UxI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>616257045931</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>roket.SignInGoogle</string>
+	<key>PROJECT_ID</key>
+	<string>signin-6e894</string>
+	<key>STORAGE_BUCKET</key>
+	<string>signin-6e894.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:616257045931:ios:aa7bb47cb7643555</string>
+	<key>DATABASE_URL</key>
+	<string>https://signin-6e894.firebaseio.com</string>
+</dict>
+</plist>
